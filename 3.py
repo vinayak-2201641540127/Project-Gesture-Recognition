@@ -1,1 +1,1 @@
-print("aman singh")
+print("aman")
