@@ -1,2 +1,0 @@
-print("Hii")
-print("World")
